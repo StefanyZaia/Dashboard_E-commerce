@@ -23,6 +23,9 @@ SUMMARIZE: Agrupamento de dados.
 D_Calendário:
 Criada com DAX para cobrir o intervalo de datas necessário.
 
+D_Detalhes:
+A tabela D_Detalhes contém informações detalhadas sobre as vendas e os produtos, permitindo análises mais aprofundadas.
+
 F_Vendas:
 Colunas: SK_ID, ID_Produto, Produto, Units Sold, Sales Price, Discount Band, Segment, Country, Sellers, Profit, Date.
 Combina chaves primárias das dimensões e medidas relacionadas às vendas.
